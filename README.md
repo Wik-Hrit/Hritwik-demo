@@ -1,4 +1,4 @@
 # Hritwik-demo
-First Repo
+First Repository
 <br>
 Author- Hritwik Varma
